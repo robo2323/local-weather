@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "See the local weather details. Uses darksky.io API and google geolocation API",
   "devDependencies": {
     "babel-core": "^6.26.3",
